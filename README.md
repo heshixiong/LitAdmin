@@ -104,6 +104,12 @@ npm run build
  >> 1.主要组件升级：vue.js升级到v2.4.4，element-ui升级到v1.4.4，其它组件升级  
  >> 2.主界面左侧菜单栏修改，使用element-ui升级的导航组件支持折叠功能。  
  >> 3.其它调整。
+ 
+ ### 更新
+ IDEA里：
+ 1. npm install
+ 2. npm run dev  
+ 直接启动
 
 
 
